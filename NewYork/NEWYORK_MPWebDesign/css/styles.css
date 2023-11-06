@@ -1,0 +1,272 @@
+html,body{
+    height:100%;
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Dodawanie tla do gornej nawigacji strony */
+.topnav {
+    background-color: #9f9f9f;
+    overflow: hidden;
+
+    overflow: hidden;
+        background-color: #afafaf;
+        position: fixed;
+        /* Ustawienie navbar na pozcyje fixed */
+        top: 0;
+        /* Pozycja menu nawigacji. (topnav) */
+        width: 100%;
+        /* Full width */
+}
+
+/* Stylowanie linkow wewnatrz paska nawigacji strony. */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 12px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Zmiana koloru koloru podswietlenia linkow */
+.topnav a:hover {
+    background-color: #d2d2d257;
+    color: black;
+}
+
+/*Zmiana koloru active link/current link*/
+.topnav a.active {
+    background-color: #FF543E;
+    color: white;
+}
+
+
+
+
+.home-page{
+    width:100%;
+    background-image: url("../img/main-picture.png");
+    background-size: cover;
+    padding-bottom:118px;
+    padding-top:24px;
+}
+
+.wrapper{
+    width: 1170px;
+    margin:auto;
+}
+
+.home-page-container {
+    padding:60px;
+    width:573px;
+    border-radius:60px;
+    margin-top:65px;
+    background-color: #d2d2d257;
+    box-sizing: border-box;
+    
+}
+
+.home-page-title{
+    font-size:20px;
+    font-weight:500;
+    line-height:24px;
+    margin-bottom:32px;
+    margin-top:0;
+    color:#303030;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+.home-page-city-name{
+    color: #ffffff;
+    font-size: 64px;
+    font-weight:600;
+    line-height:64px;
+    margin-top:0;
+    margin-bottom:32px;
+}
+
+.home-page-description{
+    margin-top:0;
+    margin-bottom:16px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color:#ffffff;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+.registration-button{
+   
+
+
+    color: #fff;
+    font-size:16px;
+    font-weight:600;
+    border-radius:8px;
+    padding: 12px 24px;
+    background-color:#FF543E;
+    border:none;
+    cursor: pointer;
+}
+
+.gallery-page{
+    padding-top:40px;
+    padding-bottom:20px;
+    text-align: center;
+    
+}
+
+
+
+/* tekst - naglowek strony h3*/
+.gallery-page-title{
+font-weight: 700;
+font-size: 80px;
+line-height: 24px;
+letter-spacing: 0em;
+font-family: system-ui, Ubuntu;
+
+}
+
+/* Ustawienia elementow wewnatrz sekcji  - obrazki */
+.gallery-container{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.gallery-item{
+
+width: calc(33% - (24px * 2 / 3));
+margin-bottom: 80px;
+
+}
+
+.gallery-item-img{
+    border-radius:40px;
+}
+
+.gallery-item-text{
+font-family: 'Montserrat';
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+.bottom-text{
+    font-family: 'Montserrat';
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.5em;
+    color:#0012d8;
+    text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
+}
+
+.contact-page{
+    background-color: #b6b6b6fe;
+    padding-top:80px;
+    padding-bottom:80px;
+    text-align: center, left;
+}
+
+.contact-page-title{
+    font-size: 65px;
+    font-weight: 500px;
+    line-height: 64px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 24px;
+    color:#ffff;
+}
+
+.contact-page-description{
+
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+width:600px;
+margin: auto;
+margin-bottom:60px;
+text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+.contact-form{
+    width:700px;
+    margin:auto;
+}
+
+.contact-form-field{
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: auto;
+    width: 100%;
+    margin-bottom:15px;
+}
+
+.contact-form-field-input{
+    height:25px;
+    width:100%;
+    border-radius:5px;
+    border: 1px solid #D9D9D9;
+    background-color:#ffffff;
+    font-size:16px;
+    font-weight:400;
+    line-height:24px;
+    padding:0 2px;
+    box-sizing: border-box;
+
+}
+
+
+.contact-form-field-label{
+    font-size:16px;
+    font-weight:400;
+    line-height:24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom:4px;
+}
+
+.contact-form-textarea{
+        width: 100%;
+        border-radius: 8px;
+        border: 1px solid rgb(124, 119, 119);
+        background-color: #ffffff;
+        font-size: 15px;
+        font-weight: 400;
+        line-height:24px;
+        padding:7px;
+        box-sizing:border-box;
+        font-family: 'Montserrat', 'sans-serif';
+}
+
+.contact-form-button{
+    background-color:#FF543E;
+    color: #ffffff;
+    font-size:16px;
+    font-weight:600;
+    line-height:24px;
+    border-radius:8px;
+    border:none;
+    cursor:pointer;
+    padding:12px 24px;
+}
+
+
+
+
+/*Przeczytaj plik readme.txt aby dowiedziec sie wiecej na temat tematyki i przeznaczenia napisanego kodu. 
+Kod napisany przez MP Web Designer; wiecej informacji znajdzie na: https: //martap.lpcriuntta.cfolks.pl*/
