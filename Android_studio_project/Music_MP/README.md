@@ -6,7 +6,7 @@ A music player app where fans can keep up to date with their favorite artists.
 
 This is a companion Flutter app to go along with the [Take your Flutter
 app from boring to beautiful](#) codelab. This codelab guides you
-step-by-step through modifying MyArtist's design to look beautiful across
+step-by-step through modifying Music_MP's design to look beautiful across
 platforms and devices.
 
 For help getting started with Flutter, view our
