@@ -10,6 +10,9 @@ to nalezy przed uruchomieniem rozpakowac zawartosc ).
 3. Otworzenie w progrmie Visual Studio Code folderu z plikami strony.
 4. Otworzenie w przegladarce pliku o nazwie "index.html" . 
 
+TESTOWA STRONA INTERNETOWA STWORZONEGO KODU JEST DOSTEPNA POD ADRESEM:  
+( mozna ja wyswietlic w przegladarce bez pobierania kodu )
+https://newyork-navbar-mp-web-design.netlify.app/
 
 
 Pozdrawiam!
@@ -31,6 +34,12 @@ Instructions to run:
 2.Open Visual Studio Code.
 3.Open the folder with the website files in Visual Studio Code.
 4.Open the "index.html" file in your web browser.
+
+
+The test website of the created code is available at the following address: 
+(it can be displayed in a browser without downloading the code).
+https://newyork-navbar-mp-web-design.netlify.app/
+
 
 Best regards!
 MP WebDesigner
