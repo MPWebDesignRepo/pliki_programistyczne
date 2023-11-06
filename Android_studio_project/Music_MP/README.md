@@ -1,4 +1,4 @@
-# MyArtist
+# Music_MP
 
 A music player app where fans can keep up to date with their favorite artists.
 
