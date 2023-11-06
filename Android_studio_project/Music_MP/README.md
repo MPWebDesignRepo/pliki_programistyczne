@@ -1,35 +1,44 @@
-# Music_MP
+# About Music App  MP_MUSIC
 
-A music player app where fans can keep up to date with their favorite artists.
+Music application which offers not only music player but also save favorite artists. 
+This application is able to be viewed via mobile phone, tablet, and desktop devices.
 
-## Getting started
 
-This is a companion Flutter app to go along with the [Take your Flutter
-app from boring to beautiful](#) codelab. This codelab guides you
-step-by-step through modifying Music_MP's design to look beautiful across
-platforms and devices.
+## Information
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contact via website:
+https://martap.lpcriuntta.cfolks.pl/
 
-## How to run
+
+For help getting started with Flutter and coding labs, view:
+[online documentation](https://flutter.dev/docs), 
+
+
+## How to run the application
 
 To run the final app:
 
 ```
-cd final
+cd final / step_07
 flutter run
 ```
-Optional: Replace `final` with any of the step_XX directories to see the
-app state at intermediate steps. 
+Optional in case of errors: Replace `final` with any of the step_XX directories to see the
+app state at intermediate steps.
 
-## Image Credits
+
+
+## Used bank of images
 
 Images sourced from Adobe Stock and Unsplash. 
 
+
 ###
 - record.jpeg: Adobe Stock
+
+#### artists
+- [joe.jpg](https://unsplash.com/photos/k7UKO-tT5QU): Natalie Runnerstrom
+- [woman.jpeg](https://unsplash.com/photos/w8wpFqiMpW8): Daniel Monteiro
+
 
 #### albums
 - [artist1-album1.jpg](https://unsplash.com/photos/f0WoQluZ8XI): Keagan Henman
@@ -46,14 +55,12 @@ Images sourced from Adobe Stock and Unsplash.
 - [artist6-album2.jpg](https://unsplash.com/photos/Qsw_e4EDTF0): Saffu
 - [artist6-album3.jpg](https://unsplash.com/photos/m82uh_vamhg): Vicko Mozara
 
-#### artists
-- [joe.jpg](https://unsplash.com/photos/k7UKO-tT5QU): Natalie Runnerstrom
-- [woman.jpeg](https://unsplash.com/photos/w8wpFqiMpW8): Daniel Monteiro
 
 #### news
 - concert.jpeg: Adobe Stock
 - [concert_heart.jpg](https://unsplash.com/photos/hzgs56Ze49s): Anthony DELANOIX
 - [recording_studio.jpg](https://unsplash.com/photos/CbOGmLA46JI): Yohann LIBOT
+
 
 #### playlists
 - [austin.jpg](https://unsplash.com/photos/AlBgcDfDG_s): Carlos Alfonso
