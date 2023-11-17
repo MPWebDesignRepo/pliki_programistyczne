@@ -6,40 +6,37 @@ html,body{
 
 
 /* Dodawanie tla do gornej nawigacji strony */
-.topnav {
-    background-color: #9f9f9f;
-    overflow: hidden;
-
-    overflow: hidden;
-        background-color: #afafaf;
-        position: fixed;
-        /* Ustawienie navbar na pozcyje fixed */
-        top: 0;
-        /* Pozycja menu nawigacji. (topnav) */
-        width: 100%;
-        /* Full width */
-}
-
-/* Stylowanie linkow wewnatrz paska nawigacji strony. */
-.topnav a {
+nav.nav li {
     float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 12px 16px;
+    display: inline;
+    padding-right: 15px;
+}
+
+nav.nav a {
     text-decoration: none;
-    font-size: 17px;
 }
 
-/* Zmiana koloru koloru podswietlenia linkow */
-.topnav a:hover {
-    background-color: #d2d2d257;
-    color: black;
+nav.main-nav {
+    height: 45px;
+    overflow: hidden;
+    background: rgb(124, 119, 119);
+    color: #525252;
+    padding-top: 5px;
 }
 
-/*Zmiana koloru active link/current link*/
-.topnav a.active {
-    background-color: #FF543E;
-    color: white;
+nav.main-nav li {
+    height: 20px;
+    line-height: 40px;
+}
+
+nav.main-nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px;
+}
+
+nav.main-nav a:hover {
+    color: #cd8500;
 }
 
 
@@ -167,7 +164,7 @@ text-shadow: 0.1em 0.1em 0.2em black;
     line-height: 24px;
     letter-spacing: 0.5em;
     color:#ffffff;
-    text-shadow: 0 0 0.2em #0012d8, 0 0 0.2em #0012d8;
+    text-shadow: 0 0 0.2em rgb(8, 14, 209), 0 0 0.2em rgb(8, 14, 209);
 }
 
 .contact-page{
