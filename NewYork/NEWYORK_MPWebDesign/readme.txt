@@ -15,6 +15,9 @@ TESTOWA STRONA INTERNETOWA STWORZONEGO KODU JEST DOSTEPNA POD ADRESEM:
 https://newyork-navbar-mp-web-design.netlify.app/
 
 
+STRONA PO AKTUALIZACJI:
+https://newyork-navbar2-mpwebdesign.netlify.app/
+
 Pozdrawiam!
 MP WebDesigner
 
@@ -39,6 +42,9 @@ Instructions to run:
 The test website of the created code is available at the following address: 
 (it can be displayed in a browser without downloading the code).
 https://newyork-navbar-mp-web-design.netlify.app/
+
+The site after update:
+https://newyork-navbar2-mpwebdesign.netlify.app/
 
 
 Best regards!
