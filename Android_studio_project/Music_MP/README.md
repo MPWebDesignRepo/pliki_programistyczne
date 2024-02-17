@@ -7,6 +7,8 @@ This application is able to be viewed via mobile phone, tablet, and desktop devi
 ## Information
 
 Contact via website:
+https://martap.online/
+or
 https://martap.lpcriuntta.cfolks.pl/
 
 
