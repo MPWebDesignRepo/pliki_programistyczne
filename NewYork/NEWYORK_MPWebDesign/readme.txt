@@ -1,5 +1,5 @@
 Strona internetowa prezentujaca wycieczki oraz formularz kontaktowy, kod oparty na HTML oraz CSS. 
-Strona NEWYORK jest tylko czescia pelnej wersji strony www. Probka kodu HTML plus CSS.
+Strona NEWYORK jest tylko czescia pelnej wersji strony. Probka kodu HTML plus CSS.
 
 Napisany kod nie kodem aplikacji przeznaczonym do wyswietlania na urzedzeniach mobilnych czy tabletach.
 
